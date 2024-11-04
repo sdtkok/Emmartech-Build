@@ -8,7 +8,7 @@
 
 <p>Html Css ile birlikte responsive uygun hale getirilmiştir.</p>
 
-<h3>Emmartech Gif</h3>
+<h3>Ekran gif</h3>
 
 ![](Emmartech.gif)
 
